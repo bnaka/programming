@@ -5,9 +5,9 @@
 
 * メソッド名
 
-for xxxに対して
-from xxxを使って
-by xxxを元に
+- for xxxに対して
+- from xxxを使って
+- by xxxを元に
 
 
 * 参考サイト
